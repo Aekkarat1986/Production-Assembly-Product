@@ -17,17 +17,18 @@
 
 <hr>
 
-## 🔄 ผังกระบวนการผลิต (Process Flow Diagram)
+## 🔄 ผังกระบวนการผลิต (Process Flow)
 
-```mermaid
-graph TD
-    A["1. Press Process <br> 🛠️ ปั๊มขึ้นรูปชิ้นส่วนโลหะและพลาสติก"] --> B["2. Plating / Stock ชุบ <br> 🧪 ชุบผิวชิ้นงานและบันทึก Lot"]
-    B --> C["3. Stock Component <br> 📦 จัดเก็บและควบคุมสต็อกชิ้นส่วน"]
-    C --> D["4. Assembly Ass'y <br> ⚙️ ประกอบชิ้นส่วนตามมาตรฐาน"]
-    D --> E["5. Stock & Delivery <br> 🚚 ตรวจสอบสำเร็จรูปและจัดส่ง"]
+| ขั้นตอนที่ | กระบวนการทำงาน | รายละเอียดเบื้องต้น |
+| :---: | :--- | :--- |
+| **1** | 🛠️ **Press Process** | ปั๊มขึ้นรูปชิ้นส่วนโลหะและพลาสติก |
+| **2** | 🧪 **Plating / Stock ชุบ** | ชุบผิวชิ้นงานและบันทึกข้อมูล Lot / ผู้ผลิต |
+| **3** | 📦 **Stock Component** | จัดเก็บและควบคุมสต็อกชิ้นส่วนรอยต่อ |
+| **4** | ⚙️ **Assembly (Ass'y)** | ประกอบชิ้นส่วนชุดหลัก (LV1) และย่อย (LV2) |
+| **5** | 🚚 **Stock & Delivery** | ตรวจสอบคุณภาพ จัดเก็บสำเร็จรูป และเตรียมจัดส่ง |
 
-    style A fill:#e3f2fd,stroke:#1565c0,stroke-width:2px,color:#000
-    style B fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000
-    style C fill:#fff3e0,stroke:#ef6c00,stroke-width:2px,color:#000
-    style D fill:#fce4ec,stroke:#c2185b,stroke-width:2px,color:#000
-    style E fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px,color:#000
+---
+
+<div align="center">
+    <p><i>จัดทำเพื่อสนับสนุนการปฏิบัติงานในไลน์ผลิต - Jozu Auto Part</i></p>
+</div>
