@@ -1,29 +1,35 @@
-<!-- ปุ่มกดลิงก์ไปหน้าบันทึกข้อมูล -->
+# 🏭 Production Flow & Process Manual
+## Cap Comp Fuel Filler (17620-Z1T-8010)
+
+---
+
+<br>
+
 <div align="center">
+    <h3>ยินดีต้อนรับสู่ระบบคู่มือการผลิตและการบันทึกข้อมูล</h3>
+    <br>
     <a href="https://jozu-factory-app.streamlit.app" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_เปิดระบบบันทึกข้อมูลการผลิต_(Streamlit_App)-brightgreen?style=for-the-badge&logo=streamlit" alt="Open App" width="100%">
+        <img src="https://img.shields.io/badge/🚀_เปิดระบบบันทึกข้อมูลการผลิต_(Streamlit_App)-brightgreen?style=for-the-badge&logo=streamlit" alt="Open App" width="400">
     </a>
+    <br><br>
+    <p><i>คลิกปุ่มด้านบนเพื่อเข้าสู่ระบบฟอร์มบันทึกข้อมูลการปฏิบัติงาน</i></p>
 </div>
 
+<br>
+<hr>
+
+## 📦 เส้นทางการไหลของผลิตภัณฑ์ (Process Flow)
+
+1. **Press Process:** 
+   * ปั๊มขึ้นรูปชิ้นส่วนโลหะและพลาสติก (Outer, Inner, Spring, Separator)
+2. **Plating / Stock ชุบ:** 
+   * ส่งชุบผิวชิ้นงานตามข้อกำหนด พร้อมบันทึกข้อมูล Lot และผู้ผลิต
+3. **Stock Component:** 
+   * จัดเก็บและควบคุมสต็อกชิ้นส่วนรอยต่อก่อนเข้าสู่ไลน์ประกอบ
+4. **Assembly (Ass'y):** 
+   * ประกอบชิ้นส่วนชุดประกอบหลัก (LV1) และชิ้นส่วนย่อย (LV2) ตามมาตรฐานการผลิต
+5. **Stock Cap Comp & Delivery:** 
+   * ตรวจสอบความเรียบร้อย จัดเก็บสินค้าสำเร็จรูป และเตรียมจัดส่ง (Delivery)
+
 ---
-
-# 🏭 Production Flow: Cap Comp
-
-คู่มือผังการไหลของกระบวนการผลิตผลิตภัณฑ์ **Cap Comp Fuel Filler (17620-Z1T-8010)**
-
----
-
-## 🔄 ผังกระบวนการผลิต (Process Flow Diagram)
-
-```mermaid
-graph TD
-    A[1. Press Process <br> ปั๊มขึ้นรูปชิ้นส่วน] --> B[2. Plating & Stock <br> ชุบผิวและคุมสต็อกชุบ]
-    B --> C[3. Stock Component <br> จัดเก็บชิ้นส่วนย่อย]
-    C --> D[4. Assembly Ass'y <br> ประกอบชิ้นส่วน]
-    D --> E[5. Stock & Delivery <br> ตรวจสอบและจัดส่ง]
-    
-    style A fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
-    style B fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style C fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
-    style D fill:#fce4ec,stroke:#c2185b,stroke-width:2px
-    style E fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+*จัดทำเพื่อสนับสนุนการปฏิบัติงานในไลน์ผลิต - Jozu Auto Part*
