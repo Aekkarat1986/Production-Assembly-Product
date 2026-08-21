@@ -1,9 +1,6 @@
-<div align="center">
-    <a href="https://jozu-factory-app.streamlit.app" target="_blank">
-        <img src="https://img.shields.io/badge/🚀_เปิดระบบบันทึกข้อมูลการผลิต-Streamlit_App-green?style=for-the-badge&logo=streamlit" alt="Open App">
-    </a>
-</div>
-<br>
+# 🚀 [คลิกที่นี่เพื่อเปิดระบบบันทึกข้อมูลการผลิต (Streamlit App)](https://jozu-factory-app.streamlit.app)
+
+---
 
 # 🏭 Production Flow & Component Process: Cap Comp
 
