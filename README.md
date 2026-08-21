@@ -1,4 +1,5 @@
-# 🏭 Production Assembly Process: Cap Comp
+# <img width="210" height="62" alt="image" src="https://github.com/user-attachments/assets/f1178b1d-2c1c-4597-b3ce-65467657408f" />
+ Production Assembly Process: Cap Comp
 
 ยินดีต้อนรับสู่ระบบแสดงขั้นตอนกระบวนการผลิตและการประกอบชิ้นส่วน (Cap Comp Production Line) เว็บไซต์นี้จัดทำขึ้นเพื่อเป็นคู่มือและแนวทางปฏิบัติงานมาตรฐานสำหรับสายการผลิต
 
