@@ -1,3 +1,10 @@
+<div align="center">
+    <a href="https://jozu-factory-app.streamlit.app" target="_blank">
+        <img src="https://img.shields.io/badge/🚀_เปิดระบบบันทึกข้อมูลการผลิต-Streamlit_App-green?style=for-the-badge&logo=streamlit" alt="Open App">
+    </a>
+</div>
+<br>
+
 # 🏭 Production Flow & Component Process: Cap Comp
 
 คู่มือและผังการไหลของชิ้นส่วนการผลิต (Production Assembly & Process Flow) ของผลิตภัณฑ์ **Cap Comp Fuel Filler (17620-Z1T-8010)**
